@@ -1,0 +1,23 @@
+{
+  "name": "eater-tap-reporter",
+  "version": "0.1.0",
+  "description": "eater tap reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "eater test/eater-tap-reporter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/yosuke-furukawa/eater-tap-reporter.git"
+  },
+  "keywords": [
+    "eater",
+    "reporter"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "dependencies": {
+    "colo": "^0.3.2",
+    "eater": "^1.7.0"
+  }
+}
